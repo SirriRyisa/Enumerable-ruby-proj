@@ -3,8 +3,9 @@
 Created Enumerable to better understand how module classes work in ruby. 
 
 # Getting started
+
 - ruby install
-- clone repo
+- clone repo from [@githubhandle](https://github.com/SirriRyisa)
 - run on your local machine
 
 # Build with 
