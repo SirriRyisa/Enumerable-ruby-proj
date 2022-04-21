@@ -1,5 +1,5 @@
 require_relative './enumerable'
-class MyList
+class mylist
   include My_Enumerable
 
   def initialize(*list)
@@ -11,7 +11,7 @@ class MyList
   end
 end
 
-list = MyList.new(1, 2, 3, 4)
+list = mylist.new(1, 2, 3, 4)
 
 puts(list.all? { |e| e < 5 })
 
