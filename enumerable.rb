@@ -1,4 +1,4 @@
-module My_Enumerable
+module MyEnumerable
   # The method returns true if the block never returns false or nil.
   def all?
     each do |e|
